@@ -276,7 +276,7 @@ body{
     border-bottom: 4px solid transparent;
     transition: color var(--hover-active-transition);
 }
-/* .header-link:hover::after */
+
 .header-link.active::after{
     display: block;
     content: "";
